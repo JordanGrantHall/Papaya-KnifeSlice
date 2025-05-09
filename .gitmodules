@@ -1,0 +1,3 @@
+[submodule "Assets/PapayaSDK"]
+	path = Assets/PapayaSDK
+	url = https://github.com/papaya-shine/unity-games-sdk.git
