@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Core.Events
+namespace KnifeSlicer.Core.Events
 {
     [AttributeUsage(AttributeTargets.Method, AllowMultiple = true)]
     public class TopicAttribute : Attribute

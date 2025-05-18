@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2b97c2ad6c7b4eff8843946779d0d83, type: 3}
+  m_Name: GameAssetBundlesData
+  m_EditorClassIdentifier: 
+  LevelBlocksPerDifficultyBundles:
+  - BlocksBundleData: []
+  - BlocksBundleData: []
+  - BlocksBundleData: []
+  - BlocksBundleData: []
+  - BlocksBundleData: []
+  - BlocksBundleData: []
+  BundlesHash:
+  - BundleName: knifeslicer_game
+    Hash: 26187676963bde476b0dd992b608134b
+  - BundleName: papayaplatform_ar
+    Hash: b248681dd09137e2859a5dab0eb94e26
+  - BundleName: papayaplatform_consistent_ui
+    Hash: 116387046bac16221107ec9cb1fc6542
+  - BundleName: papayaplatform_dbg
+    Hash: 7fac13ebf48112467888ceb44260133a
+  - BundleName: papayaplatform_ftue
+    Hash: 96bc34f55f090b7f61c61f0f96447c62
+  - BundleName: papayaplatform_gamecustomization
+    Hash: 2f3d4eabf42ba517ce713072c4c28ad3
+  - BundleName: papayaplatform_recording
+    Hash: 834d6127d0cd5983b976ca89cbea407e
+  AssetsDirectLoadData: []

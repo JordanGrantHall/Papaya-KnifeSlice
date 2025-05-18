@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace General.Utility
+namespace KnifeSlicer.General.Utility
 {
     /// <summary>
     /// Marker class to not destroy when Transform.Clear is called

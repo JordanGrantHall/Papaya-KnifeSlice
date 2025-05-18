@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf934836510894672b6f6666b0fc8852, type: 3}
+  m_Name: ProgressBasedDifficultySettings
+  m_EditorClassIdentifier: 
+  DifficultyCurves:
+  - DifficultyCurve:
+    - Progress: 0
+      Difficulty: 0
+    - Progress: 0.3083359
+      Difficulty: 0.0235672
+    - Progress: 0.5411407
+      Difficulty: 0.2098999
+    - Progress: 0.8547028
+      Difficulty: 0.43396
+    - Progress: 1
+      Difficulty: 1
+    DesiredProgress: 100
+  - DifficultyCurve:
+    - Progress: 0
+      Difficulty: 0.15
+    - Progress: 0.2791718
+      Difficulty: 0.35
+    - Progress: 0.4947968
+      Difficulty: 0.3632202
+    - Progress: 0.615094
+      Difficulty: 0.65849
+    - Progress: 0.7641506
+      Difficulty: 0.5604763
+    - Progress: 1
+      Difficulty: 1
+    DesiredProgress: 50
+  - DifficultyCurve:
+    - Progress: 0
+      Difficulty: 0.4
+    - Progress: 0.2260391
+      Difficulty: 0.6575348
+    - Progress: 0.3947968
+      Difficulty: 0.5297302
+    - Progress: 0.6625
+      Difficulty: 0.8311249
+    - Progress: 1
+      Difficulty: 1
+    DesiredProgress: 25

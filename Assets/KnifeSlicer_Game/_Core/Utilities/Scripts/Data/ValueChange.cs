@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Utilities.Data
+namespace KnifeSlicer.Utilities.Data
 {
     [Serializable]
     public class ValueChange

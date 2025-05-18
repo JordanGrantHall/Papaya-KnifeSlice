@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Tasks
+namespace KnifeSlicer.Tasks
 {
     public class TaskManager : MonoBehaviour
     {

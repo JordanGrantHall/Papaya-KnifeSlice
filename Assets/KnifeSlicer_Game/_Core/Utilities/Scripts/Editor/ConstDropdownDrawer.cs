@@ -1,12 +1,12 @@
-﻿using System;
+﻿using KnifeSlicer.Utilities.Attributes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using UnityEditor;
 using UnityEngine;
-using Utilities.Attributes;
 
-namespace Utilities.Scripts.Editor
+namespace KnifeSlicer.Utilities.Scripts.Editor
 {
     [CustomPropertyDrawer(typeof(ConstDropdownAttribute))]
     public class ConstDropdownDrawer : PropertyDrawer

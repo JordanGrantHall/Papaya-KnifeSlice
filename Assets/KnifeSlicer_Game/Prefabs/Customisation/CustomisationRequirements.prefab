@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1004628031493273428
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7374252906071845590}
+  - component: {fileID: 1298980763818330588}
+  - component: {fileID: 517493443321975010}
+  m_Layer: 0
+  m_Name: CustomisationRequirements
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7374252906071845590
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1004628031493273428}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.2419486, y: 8.558646, z: -0.016706469}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1298980763818330588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1004628031493273428}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b150651d0a7c46b497692343514378d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Images:
+  - ID: cuttingobject-test1
+    Image: {fileID: 2800000, guid: 94790f5bcce324e0b8af9e7d6ff2aa75, type: 3}
+  - ID: cuttingobject-test2
+    Image: {fileID: 2800000, guid: f130c96080d574f49bbb0ab87692a37b, type: 3}
+  - ID: knife-test1
+    Image: {fileID: 2800000, guid: 5335644b7cc97c844a9cadfafce06c21, type: 3}
+  - ID: knife-test2
+    Image: {fileID: 2800000, guid: 3828b63f47cd0e748a18a37676c6a9c1, type: 3}
+  Sounds:
+  - ID: default
+    Audio: {fileID: 8300000, guid: fd11b96ad1b07e74894718539349a883, type: 3}
+    Title: Knife
+    Image: {fileID: 2800000, guid: 9404220c6aacf4f4e847205fa46e697f, type: 3}
+--- !u!114 &517493443321975010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1004628031493273428}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a9fbd806fe92e54792ab30a2ab37511, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  VerticalMask: {fileID: 2800000, guid: 52400809af1b45d45857db5cc8c835a0, type: 3}
+  VerticalMaskOutline: {fileID: 2800000, guid: fa0db2ac7ae371d40b328ab9aedc3fea, type: 3}
+  HorizontalMask: {fileID: 2800000, guid: 83444539bc8cd084e8570fed80d2defd, type: 3}
+  HorizontalMaskOutline: {fileID: 2800000, guid: fe05fe559607b2247b756988d844b05e, type: 3}

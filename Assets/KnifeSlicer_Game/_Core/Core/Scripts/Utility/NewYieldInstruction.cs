@@ -1,8 +1,8 @@
-﻿using System;
-using Core.Events;
+﻿using KnifeSlicer.Core.Events;
+using System;
 using UnityEngine;
 
-namespace Core.Utility
+namespace KnifeSlicer.Core.Utility
 {
     public abstract class NewYieldInstruction : CustomYieldInstruction, IDisposable
     {

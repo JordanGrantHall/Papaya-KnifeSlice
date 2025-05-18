@@ -1,9 +1,9 @@
-﻿using Core;
+﻿using KnifeSlicer.Core;
 using System;
 using System.Collections;
 using UnityEngine;
 
-namespace Tasks
+namespace KnifeSlicer.Tasks
 {
     [RequireComponent(typeof(Task))]
     public abstract class TaskBase : BaseBehaviour, ITask

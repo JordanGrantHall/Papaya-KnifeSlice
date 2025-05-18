@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/KnifeSlicer_Game/Scenes/KnifeSlicer_GameCustomization_Scene.unity
+    guid: e5b37ec7f1365834bb5f904815ff3643
+  - enabled: 1
+    path: Assets/KnifeSlicer_Game/Scenes/KnifeSlicer_Scene.unity
+    guid: ab23fd738baed454482cb088e7b33085
+  - enabled: 1
+    path: Assets/PapayaSDK/GlobalManager/Scenes/PapayaSDKManagerScene.unity
+    guid: 1e56c113548d446e5bec9cc5964514e0
   m_configObjects: {}

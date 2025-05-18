@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Utilities.Attributes
+namespace KnifeSlicer.Utilities.Attributes
 {
     [AttributeUsage(AttributeTargets.Field, AllowMultiple = false)]
     public class ConstDropdownAttribute : PropertyAttribute

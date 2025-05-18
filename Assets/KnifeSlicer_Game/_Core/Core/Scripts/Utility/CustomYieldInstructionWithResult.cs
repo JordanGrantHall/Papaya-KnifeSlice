@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Core.Utility
+namespace KnifeSlicer.Core.Utility
 {
     public abstract class CustomYieldInstructionWithResult<T> : CustomYieldInstruction
     {

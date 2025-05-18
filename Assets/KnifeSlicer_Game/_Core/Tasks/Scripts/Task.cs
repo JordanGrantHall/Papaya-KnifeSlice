@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Tasks
+namespace KnifeSlicer.Tasks
 {
     public class Task : MonoBehaviour
     {

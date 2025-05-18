@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace General.Utility
+namespace KnifeSlicer.General.Utility
 {
     [RequireComponent(typeof(ParticleSystem))]
     public class SubscribableParticles : MonoBehaviour

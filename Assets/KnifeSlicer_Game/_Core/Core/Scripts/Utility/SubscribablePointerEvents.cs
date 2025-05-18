@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace General.Utility
+namespace KnifeSlicer.General.Utility
 {
     public class SubscribablePointerEvents : MonoBehaviour,
         IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler,
