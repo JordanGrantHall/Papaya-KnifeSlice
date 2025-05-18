@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81c0517290701406d844da0f10948626, type: 3}
+  m_Name: GameSpecificConfigurations
+  m_EditorClassIdentifier: 
+  Settings: {fileID: 11400000, guid: 131435a08af32b449bad073d66089997, type: 2}
+  RenderPipelineOverride: {fileID: 11400000, guid: 681886c5eb7344803b6206f758bf0b1c, type: 2}
+  GreenScreenGame: 1
+  ARGame: 0
+  GyroGame: 0
+  VoiceControlGame: 0
+  ARValidation: 0
+  ARActions: 
+  SupportsGameCustomization: 1
+  InternalTestGame: 0
+  ShowFTUE: 1
+  FTUEType: 6
+  FTUEDisappearTrigger: 0
+  FTUE_Y_Offset: 0
+  FTUE_Timeout: 6
+  SkipCountdown: 0
+  MajorVersion: 0
+  MinorVersion: 0
+  PatchVersion: 0
+  SortingLayers:
+  - Name: Default
+    ID: 0
+    Idx: 0
+  Tags: []

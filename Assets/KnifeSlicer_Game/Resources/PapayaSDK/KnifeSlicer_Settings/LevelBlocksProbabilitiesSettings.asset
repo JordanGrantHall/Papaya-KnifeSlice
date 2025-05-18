@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1876f835718e242aaae193005f1ceb9c, type: 3}
+  m_Name: LevelBlocksProbabilitiesSettings
+  m_EditorClassIdentifier: 
+  PerDifficultySettings:
+  - DifficultyCurve:
+    - Progress: 0
+      Difficulty: 0
+    - Progress: 0.37342986
+      Difficulty: 0.10611725
+    - Progress: 0.54114074
+      Difficulty: 0.2098999
+    - Progress: 0.8547028
+      Difficulty: 0.43395996
+    - Progress: 1
+      Difficulty: 1
+    DesiredBlocksAmount: 20
+  - DifficultyCurve:
+    - Progress: 0
+      Difficulty: 0.15
+    - Progress: 0.27917176
+      Difficulty: 0.35
+    - Progress: 0.49479675
+      Difficulty: 0.3632202
+    - Progress: 0.615094
+      Difficulty: 0.65849
+    - Progress: 0.7641506
+      Difficulty: 0.5604763
+    - Progress: 1
+      Difficulty: 1
+    DesiredBlocksAmount: 20
+  - DifficultyCurve:
+    - Progress: 0
+      Difficulty: 0.4
+    - Progress: 0.22603913
+      Difficulty: 0.6575348
+    - Progress: 0.39479676
+      Difficulty: 0.5297302
+    - Progress: 0.6625
+      Difficulty: 0.8311249
+    - Progress: 1
+      Difficulty: 1
+    DesiredBlocksAmount: 20
+  BlockDifficultyProbabilities:
+  - Difficulty: 0
+    BlockDifficultyPercentages:
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  - Difficulty: 0.33
+    BlockDifficultyPercentages:
+    - 0.2
+    - 0.4
+    - 0.3
+    - 0.1
+    - 0
+    - 0
+  - Difficulty: 0.66
+    BlockDifficultyPercentages:
+    - 0
+    - 0.1
+    - 0.2
+    - 0.4
+    - 0.2
+    - 0.1
+  - Difficulty: 1
+    BlockDifficultyPercentages:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1

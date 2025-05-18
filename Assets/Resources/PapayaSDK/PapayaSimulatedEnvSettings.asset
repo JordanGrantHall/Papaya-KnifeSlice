@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b0aa37c7210f4c228ecc32d7d7fc371, type: 3}
+  m_Name: PapayaSimulatedEnvSettings
+  m_EditorClassIdentifier: 
+  Difficulty: 0
+  ChangeDifficultyEachGame: 0
+  GameMode: 2
+  ScoreTarget: 50
+  GetGameConfigFromServer: 0
+  GameConfigVersion: 
+  UseCustomSeed: 0
+  Seed: 0
+  Theme: 0
+  MaxPauseSec: 20
+  RecordScreen: 0
+  RecordCamera: 0
+  RecordScreenFps: 60
+  RecordCameraFps: 60
+  RecordScreenQuality: 1
+  RecordCameraQuality: 1
+  SimulateQuest: 0
+  CurrentQuestData:
+    ID: 0
+    CurrentCount: 0
+    TargetCount: 0
+    PersistBetweenSessions: 0
+    QuestText: 
+    CoinsReward: 0
+  UseTestBlocks: 0
+  TestBlocksRandomOrder: 0
+  TestBlocks: []
+  ARValidationsTimeout: 60
+  GameVolume: 1
+  MusicVolume: 1
+  UseHaptics: 1
+  GameCustomizationDataJson: 
+  CameraPermissions: 1
+  MicrophonePermissions: 1

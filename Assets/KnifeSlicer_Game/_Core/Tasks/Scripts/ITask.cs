@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace Tasks
+namespace KnifeSlicer.Tasks
 {
     public interface ITask
     {

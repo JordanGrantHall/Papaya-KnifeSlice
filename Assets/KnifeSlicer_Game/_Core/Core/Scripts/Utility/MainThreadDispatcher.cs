@@ -1,9 +1,9 @@
-﻿using System;
+﻿using KnifeSlicer.Core.Singleton;
+using System;
 using System.Collections.Concurrent;
-using Core.Singleton;
 using UnityEngine;
 
-namespace Core.Utility
+namespace KnifeSlicer.Core.Utility
 {
     [ExecuteAlways]
     public class MainThreadDispatcher : MonoSingleton<MainThreadDispatcher>

@@ -1,13 +1,13 @@
-﻿using System;
+﻿using KnifeSlicer.Core.Utility;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using Core.Utility;
 using UnityEditor;
 using UnityEngine;
 
-namespace Core.Events
+namespace KnifeSlicer.Core.Events
 {
     public static class ServiceBus
     {

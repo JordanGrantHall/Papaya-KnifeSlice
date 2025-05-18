@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 605315d98fc024116b0781b99d48f052, type: 3}
+  m_Name: PapayaLocalProjectSettings
+  m_EditorClassIdentifier: 
+  GameName: KnifeSlicer
+  CompanyName: JordanGrantHall
+  UseAssetBundlesInUnity: 1
+  UseAssetBundlesInBuild: 1
+  UseAssetBundlesFromServer: 0
+  UseSimulatedEnv: 1
+  UseServerGCFileStorage: 0
+  GameDefinitions: []
+  LastUsedSDKVersion: 4.10.0

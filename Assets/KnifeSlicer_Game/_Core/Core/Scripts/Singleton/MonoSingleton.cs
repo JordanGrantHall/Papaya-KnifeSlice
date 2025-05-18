@@ -1,4 +1,4 @@
-﻿namespace Core.Singleton
+﻿namespace KnifeSlicer.Core.Singleton
 {
     public class MonoSingleton<T> : BaseBehaviour where T : BaseBehaviour
     {

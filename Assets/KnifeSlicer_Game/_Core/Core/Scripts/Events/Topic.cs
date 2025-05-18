@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Reflection;
 
-namespace Core.Events
+namespace KnifeSlicer.Core.Events
 {
     public class Topic
     {

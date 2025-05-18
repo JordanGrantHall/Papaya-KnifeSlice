@@ -1,7 +1,7 @@
-﻿using Core.Events;
+﻿using KnifeSlicer.Core.Events;
 using UnityEngine;
 
-namespace Core
+namespace KnifeSlicer.Core
 {
     public class BaseBehaviour : MonoBehaviour
     {
