@@ -46,14 +46,28 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Images:
-  - ID: cuttingobject-test1
-    Image: {fileID: 2800000, guid: 94790f5bcce324e0b8af9e7d6ff2aa75, type: 3}
-  - ID: cuttingobject-test2
-    Image: {fileID: 2800000, guid: f130c96080d574f49bbb0ab87692a37b, type: 3}
-  - ID: knife-test1
-    Image: {fileID: 2800000, guid: 5335644b7cc97c844a9cadfafce06c21, type: 3}
+  - ID: cuttingobject-watermelon
+    Image: {fileID: 2800000, guid: 2929cd02a858c54468886a143f321f9a, type: 3}
+  - ID: cuttingobject-cucumber
+    Image: {fileID: 2800000, guid: 35722fbc46f5b364f95c66f275518fc4, type: 3}
+  - ID: cuttingobject-rubberchicken
+    Image: {fileID: 2800000, guid: 028bf18cec0440b47bccac8d03354f09, type: 3}
+  - ID: cuttingobject-log
+    Image: {fileID: 2800000, guid: e43d4b6409c3c8344a3dd0e81f5a7f8d, type: 3}
+  - ID: cuttingobject-eggplant
+    Image: {fileID: 2800000, guid: 0af972b0588f9af4898d8c80e77c5240, type: 3}
+  - ID: cuttingobject-melon
+    Image: {fileID: 2800000, guid: 6badf0466cfeee743b01c6535916b8b0, type: 3}
+  - ID: cuttingobject-sausage
+    Image: {fileID: 2800000, guid: 0b1689dcdaffc49429ab05d36ab3837a, type: 3}
+  - ID: knife-axe
+    Image: {fileID: 2800000, guid: 022f1236825c8ee49857ac5505913fe7, type: 3}
+  - ID: knife-katana
+    Image: {fileID: 2800000, guid: 53a280f18fb843c4aa828863b0df702a, type: 3}
+  - ID: knife-machete
+    Image: {fileID: 2800000, guid: 19459117674f6f54fa4647bc1f77138b, type: 3}
   - ID: knife-test2
-    Image: {fileID: 2800000, guid: 3828b63f47cd0e748a18a37676c6a9c1, type: 3}
+    Image: {fileID: 2800000, guid: 0bc11b8284c7cdc449d6d6313a99eb55, type: 3}
   Sounds:
   - ID: default
     Audio: {fileID: 8300000, guid: fd11b96ad1b07e74894718539349a883, type: 3}

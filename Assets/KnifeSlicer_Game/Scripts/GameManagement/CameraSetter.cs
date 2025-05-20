@@ -8,13 +8,15 @@ using UnityEngine.UI;
 public class CameraSetter : MonoBehaviour
 {
     [SerializeField]
-    private Color _noCamColor = Color.white;
+    private GameObject noShowObject;
 
     private RawImage _camImage;
+
 
     private void Awake()
     {
         _camImage = GetComponent<RawImage>();
+        noShowObject.gameObject.SetActive(false);
     }
 
     private IEnumerator Start()
@@ -29,7 +31,7 @@ public class CameraSetter : MonoBehaviour
         }
         else
         {
-            _camImage.color = _noCamColor;
+            noShowObject.gameObject.SetActive(true);
         }
     }
 }
