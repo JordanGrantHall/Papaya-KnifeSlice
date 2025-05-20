@@ -21,7 +21,7 @@ MonoBehaviour:
   - BlocksBundleData: []
   BundlesHash:
   - BundleName: knifeslicer_game
-    Hash: 26187676963bde476b0dd992b608134b
+    Hash: a74ace8f3992b72778d2e9132a96e0bb
   - BundleName: papayaplatform_ar
     Hash: b248681dd09137e2859a5dab0eb94e26
   - BundleName: papayaplatform_consistent_ui

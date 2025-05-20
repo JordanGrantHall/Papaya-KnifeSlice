@@ -159,7 +159,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 678.28735, y: 84.78592}
+  m_SizeDelta: {x: 482.65417, y: 548.6707}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &138449976
 MonoBehaviour:
@@ -194,7 +194,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: d0c41b5da271040a38dc7f2f0b41dca0, type: 3}
+  m_Texture: {fileID: 2800000, guid: 2929cd02a858c54468886a143f321f9a, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -243,8 +243,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -440}
-  m_SizeDelta: {x: -300, y: 176.4294}
+  m_AnchoredPosition: {x: -45, y: -584}
+  m_SizeDelta: {x: -158.8049, y: 548.6707}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &450766002
 MonoBehaviour:
@@ -692,8 +692,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 343, y: 580.5652}
-  m_SizeDelta: {x: 100, y: 385.6049}
+  m_AnchoredPosition: {x: 217.36, y: 580.5652}
+  m_SizeDelta: {x: 376.9585, y: 584.5612}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1622235142
 MonoBehaviour:
@@ -871,8 +871,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 22, y: 0}
-  m_SizeDelta: {x: 54.491135, y: 385.6049}
+  m_AnchoredPosition: {x: -0.000038146973, y: 0}
+  m_SizeDelta: {x: 376.9585, y: 399.7914}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2054345838
 MonoBehaviour:
@@ -907,7 +907,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 5335644b7cc97c844a9cadfafce06c21, type: 3}
+  m_Texture: {fileID: 2800000, guid: 0bc11b8284c7cdc449d6d6313a99eb55, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
